@@ -36,6 +36,6 @@
     padding: 1em;
     background-color: var(--branco)
 }
-.lista-menu__titulo {
+.lista-menu_titulo {
     color: var(--laranja);
 }
