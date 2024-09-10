@@ -33,6 +33,6 @@
 }
 .lista-menu_titulo, 
 .lista-menu_item {
-    padding: 1em,
-    background-color: var(--branco);
+    padding: 1em;
+    background-color: var(--branco)
 }
